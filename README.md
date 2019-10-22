@@ -44,6 +44,12 @@ FROM
   USING (fullVisitorId)
 ;
 ```
+    
+![Some model details:](/pics/image12.png, "Model Details")
+![](/pics/image10.png, "Model Details 2")
+
+![Training process details:](pics/image4.png)
+![Training process details:](pics/image3.png)
 
 3. Evaluate classification model performance:
 
