@@ -8,9 +8,8 @@ BigQuery Machine Learning is a new feature in BigQuery where data analysts can c
 
 ## Process
 1. Create a BigQuery dataset to store models
-2. Select a BQML model type and specify options:
+2. Create and select a BQML model type and specify options:
 
-SQL code to create a model and specify model options:
 ```SQL
 CREATE OR REPLACE MODEL `ecommerce.classification_model`
 OPTIONS
